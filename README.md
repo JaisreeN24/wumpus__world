@@ -1,4 +1,4 @@
-<h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+<h1>ExpNo 10: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
 <h3>Name: Jaisree N                      </h3>
 <h3>Register Number/Staff Id: 212224060104               </h3>
 <H3>Aim:</H3>
